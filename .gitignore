@@ -1,0 +1,11 @@
+dataset/
+
+*.ipynb_checkpoints
+
+checkpoints/
+
+models/
+
+coreml_models/
+
+*.h5
