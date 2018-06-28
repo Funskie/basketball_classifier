@@ -1,11 +1,19 @@
-dataset/
+dataset/train/dribble/*.JPG
+dataset/train/layup/*.JPG
+dataset/train/shoot/*.JPG
+dataset/test/dribble/*.JPG
+dataset/test/layup/*.JPG
+dataset/test/shoot/*.JPG
+
+dataset/train/dribble/*.jpeg
+dataset/train/layup/*.jpeg
+dataset/train/shoot/*.jpeg
+dataset/test/dribble/*.jpeg
+dataset/test/layup/*.jpeg
+dataset/test/shoot/*.jpeg
 
 *.ipynb_checkpoints
 
-checkpoints/
-
-models/
-
-coreml_models/
+*.mlmodel
 
 *.h5
