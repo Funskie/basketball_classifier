@@ -1,5 +1,3 @@
-tools/
-
 dataset/train/dribble/*.JPG
 dataset/train/layup/*.JPG
 dataset/train/shoot/*.JPG

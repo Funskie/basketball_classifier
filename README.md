@@ -6,11 +6,11 @@
 
 主要將動作分為三類：**運球(dribble)、上籃(layup)、投籃(shoot)**  
 **運球(dribble)：**  
-<img src="dataset/train/dribble/d175.jpeg" width="50%" height="50%">  
+<img src="tools/d175.jpeg" width="50%" height="50%">  
 **上籃(layup)：**  
-<img src="dataset/train/layup/l771.jpeg" width="50%" height="50%">    
+<img src="tools/l771.jpeg" width="50%" height="50%">    
 **投籃(shoot)：**  
-<img src="dataset/train/shoot/s717.jpeg" width="50%" height="50%">  
+<img src="tools/s717.jpeg" width="50%" height="50%">  
 training data dribble：967、layup：869、shoot：945  
 testing datas dribble：100、layup：100、shoot：100  
 下為專案架構：
