@@ -51,7 +51,7 @@ plot error-predicted images:
 <img src="tools/error2.JPG">  
 <img src="tools/error3.JPG"> 
 <img src="tools/error4.JPG">  
-<img src="tools/error5.JPG"> 
+<img src="tools/error5.JPG">  
 可以看出模型在判斷投籃(shoot)與上籃(layup)間錯誤較多，事實上這兩個動作之間本身就存在一些模糊的空間，可能在一開始資料分類時就必須更清楚的定義何謂投籃(shoot)？何謂上籃(layup)？  
 最後附上模型轉成coreml格式並build成IOS app的成果。
 [basketball_move_classifier](https://www.youtube.com/watch?v=6otRvjD8epQ&index=4&t=0s&list=PL20F19SmKzYRvpP-BuQfOHKf7bP__Y2AS )
