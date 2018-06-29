@@ -1,0 +1,12 @@
+Python 3.6.5(anaconda)
+CUDA 9.0
+
+Keras                     ver:2.1.5
+numpy                     ver:1.14.3
+matplotlib                ver:2.2.2
+opencv                    ver:3.3.1
+pandas                    ver:0.22.0
+requests                  ver:2.18.4     
+scikit-learn              ver:0.19.1
+seaborn                   ver:0.8.1
+tensorflow-gpu            ver:1.6.0
